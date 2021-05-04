@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "modal",
-    "slug": "modal",
+    "name": "async-storage",
+    "slug": "async-storage",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
